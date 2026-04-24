@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mandacá App
+# 🌵 Mandacá App 🧑‍🍳
 
 **Plataforma HCD para conectar turistas a microempreendedores gastronômicos no interior de Pernambuco.**
 
