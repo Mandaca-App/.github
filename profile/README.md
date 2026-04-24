@@ -41,6 +41,8 @@ https://github.com/Mandaca-App/mandaca-frontend/releases/latest/download/mandaca
 
 O app e compativel com Android arm64-v8a. Para ver o historico de builds e releases anteriores: [Releases do Frontend](https://github.com/Mandaca-App/mandaca-frontend/releases)
 
+Também é possível fazer o preview dos PRs abertos no Frontend adicionando a label build-android ao PR, fazendo que seja buildado o APK e o link seja colocado em um comentário dentro do próprio PR automaticamente.
+
 ---
 
 ## Pipeline de Releases
