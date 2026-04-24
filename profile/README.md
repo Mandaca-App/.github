@@ -29,9 +29,9 @@
 O APK de preview e gerado automaticamente todo domingo e publicado com um link permanente. Nao e necessario compilar nada localmente.
 
 **Download direto:**
-```
+
 https://github.com/Mandaca-App/mandaca-frontend/releases/latest/download/mandaca-preview.apk
-```
+
 
 **Como instalar:**
 1. Acesse o link acima no celular Android e baixe o APK
